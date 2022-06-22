@@ -1,0 +1,57 @@
+﻿  CustomQueryForm.cpp
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(208,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(305,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(377,15): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(344,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+  DeleteQueryForm.cpp
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(208,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(305,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(377,15): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(344,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+  InsertQueryForm.cpp
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(208,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(305,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(377,15): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(344,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+  MainForm.cpp
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(136,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(218,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(222,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(208,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(307,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(311,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(305,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(377,15): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(346,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(350,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(344,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\SchemaCheckForm.h(185,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SelectQueryForm.cpp
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(208,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(305,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(377,15): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(344,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+  SchemaCheckForm.cpp
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(136,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(218,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(222,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(208,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(307,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(311,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(305,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(377,15): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(346,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(350,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(344,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\SchemaCheckForm.h(185,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  UpdateQueryForm.cpp
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(208,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(305,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(377,15): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(344,9): warning C4101: 'char_query' :참조되지 않은 지역 변수입니다.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  코드를 생성하고 있습니다...
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(182): warning C4715: 'ProcessQuery::SchemaCheck': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\PC_Franchise\ProcessQuery.h(182): warning C4715: 'ProcessQuery::SchemaCheck': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  CustomQueryForm.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+  PC_Franchise.vcxproj -> D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\DB-FinalProject-이우석-ProjectFolder\PC_Franchise\Debug\PC_Franchise.exe

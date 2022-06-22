@@ -1,0 +1,8 @@
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\PC_Franchise\PC_Franchise\x64\Release\PCFranchise.CustomQueryForm.resources
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\PC_Franchise\PC_Franchise\x64\Release\PCFranchise.DeleteQueryForm.resources
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\PC_Franchise\PC_Franchise\x64\Release\PCFranchise.InsertQueryForm.resources
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\PC_Franchise\PC_Franchise\x64\Release\PCFranchise.MainForm.resources
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\PC_Franchise\PC_Franchise\x64\Release\PCFranchise.SchemaCheckForm.resources
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\PC_Franchise\PC_Franchise\x64\Release\PCFranchise.SelectQueryForm.resources
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\PC_Franchise\PC_Franchise\x64\Release\PCFranchise.UpdateQueryForm.resources
+D:\Documents\과제\데이터베이스\데이터베이스 미니프로젝트3\PC_Franchise\PC_Franchise\x64\Release\PC_Franchise.vcxproj.GenerateResource.cache
